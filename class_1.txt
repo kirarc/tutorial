@@ -1,3 +1,0 @@
-print("Hello")
-println("Hello")
-print("Ever")
